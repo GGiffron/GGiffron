@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Giffron
-- 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently learning Python and R, with Calculus and Statistics book
-- 💞️ I’m looking to collaborate on Data Analysis and Data Science projects especially if it goes into engineering or exact sciences
+- 👀 I’m interested in BackEnd Development, Data Science and Data Analysis
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on Data Analysis and Data Science projects
 - 📫 You can contact me on my email: drgiffron@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I´m a Physicist and Automation Technician, but my love for data science grew enough for me to start a Bachelor of Science in Computer Science
